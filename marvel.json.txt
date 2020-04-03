@@ -1,0 +1,39 @@
+{
+  "squadName" : "HEROES MARVEL",
+  "homeTown" : "Metro City",
+  "formed" : 2020,
+  "secretBase" : "Super tower",
+  "active" : true,
+  "members" : [
+    {
+      "name" : "Spider Man",
+      "age" : 29,
+      "secretIdentity" : "Tobey Maguire",
+      "powers" : [
+        "Telaraña",
+        "Escalar",
+      ]
+    },
+    {
+      "name" : "Capitan America",
+      "age" : 106,
+      "secretIdentity" : "Chris Evans",
+      "powers" : [
+        "Velocidad y fuerza",
+        "Sentidos",
+        "Habilidad con armas"
+      ]
+    },
+    {
+      "name" : "Iron Man",
+      "age" : 1000000,
+      "secretIdentity" : "Robert Downey",
+      "powers" : [
+        "Volar",
+        "Lanzar rayos de sus manos o pecho",
+        "Su traje",
+
+      ]
+    }
+  ]
+}
